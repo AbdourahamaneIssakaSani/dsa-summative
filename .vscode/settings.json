@@ -1,0 +1,20 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "algorithm": "c",
+        "binary_trees.h": "c",
+        "graphs.h": "c",
+        "types.h": "c",
+        "array": "c",
+        "functional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "queues.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "heap.h": "c"
+    }
+}
